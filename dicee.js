@@ -39,7 +39,7 @@ function updateButtonText(text) {
 
   // After showing the result, reset the button text after a delay (e.g., 2 seconds)
   setTimeout(function() {
-    document.querySelector('#mybtn').innerHTML = 'Refresh again';
+    document.querySelector('#mybtn').innerHTML = 'Refresh';
   }, 1000);
 }
 
