@@ -13,7 +13,13 @@
 body {
   background-color: #393E46;
 }
+button {
+  margin: 30px;
+  background-color: black;
+  font-size: 6rem;
+  color: #4ECCA3;
 
+}
 h1 {
   margin: 30px;
   font-family: 'Lobster', cursive;
@@ -40,6 +46,3 @@ footer {
 
 }
 
-button {
-  background-color: black;
-}
