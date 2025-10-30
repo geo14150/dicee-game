@@ -42,4 +42,5 @@ function updateButtonText(text) {
     document.querySelector('#mybtn').innerHTML = 'Refresh';
   }, 1000);
 }
+rollDice();
 
